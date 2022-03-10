@@ -1,4 +1,5 @@
 ### Hello world 👋
+
 **About me**
 * 2.5 years experience working as Data Scientist for a school district in the Chicagoland area. Improved student academic and behavioral outcomes using data. Internship experience in computer vision/automotive automation and freelance database work.
 * Building interactive dashboards to track KPIs. Research. Python for data analysis, cleaning, and machine learning.
@@ -17,9 +18,17 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png"></code>
 <code><img height="40" src="https://www.icds.psu.edu/wp-content/uploads/2021/07/juptyterlab-colab-logos.png"></code>
 
-**Kaggle**
+**Links**
 
-Visit Profile: [kaggle.com/alexteboul](https://www.kaggle.com/alexteboul)
+<a href="https://www.linkedin.com/in/alexteboul/">
+  <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="30">
+</a>         
+<a href="https://www.kaggle.com/alexteboul">
+  <img alt="Kaggle" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height="30">
+</a>
+
+
+**Kaggle**
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexteboul/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexteboul/dataset/light)
