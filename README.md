@@ -1,6 +1,6 @@
 ### Hello world 👋
 **About me**
-* I have 2.5 years of experience as a Data Scientist helping a school district in the Chicagoland area better leverage data to improve student academic and behavioral outcomes. Internship experience in computer vision and automotive automation and freelance database work.
+* 2.5 years experience working as Data Scientist for a school district in the Chicagoland area. Improved student academic and behavioral outcomes using data. Internship experience in computer vision and automotive automation and freelance database work.
 * Building interactive dashboards to track KPIs. Research. Python for data analysis, cleaning, and machine learning.
 * Interested in DS/ML for healthtech, chronic diseases, computer vision, and natural language processing
 
