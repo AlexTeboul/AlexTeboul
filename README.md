@@ -17,3 +17,11 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png"></code>
 <code><img height="40" src="https://www.icds.psu.edu/wp-content/uploads/2021/07/juptyterlab-colab-logos.png"></code>
 
+**Kaggle**
+
+Visit Profile: [kaggle.com/alexteboul](https://www.kaggle.com/alexteboul)
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexteboul/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexteboul/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexteboul/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexteboul/discussion/light)
