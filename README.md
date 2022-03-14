@@ -13,8 +13,9 @@
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"></code>
 <code><img height="40" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png"></code>
-<code><img height="40" src="https://www.domo.com/assets/images/logo@2x.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/r/r.png"></code>
+<code><img height="40" src="https://www.domo.com/assets/images/logo@2x.png"></code>
+<code><img height="40" src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png"></code>
 <code><img height="40" src="https://www.icds.psu.edu/wp-content/uploads/2021/07/juptyterlab-colab-logos.png"></code>
 <code><img height="40" src="https://ml.globenewswire.com/Resource/Download/739a0114-4c0d-4a18-b85e-b53982324cbc"></code>
