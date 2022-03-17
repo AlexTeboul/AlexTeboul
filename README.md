@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/alexteboul/">
   <img alt="SQL" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png" height="30">
 </a>
-<a href="https://www.linkedin.com/in/alexteboul/">
+<a href="https://github.com/AlexTeboul/msds/tree/main/dsc424-advanced-data-analysis-R">
   <img alt="R" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/r/r.png" height="30">
 </a>
 <a href="https://www.linkedin.com/in/alexteboul/">
