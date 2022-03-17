@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/alexteboul/">
   <img alt="JuypterColab" src="https://www.icds.psu.edu/wp-content/uploads/2021/07/juptyterlab-colab-logos.png" height="30">
 </a>
-<a href="https://www.linkedin.com/in/alexteboul/">
+<a href="https://github.com/AlexTeboul/my-streamlit-apps">
   <img alt="Streamlit" src="https://ml.globenewswire.com/Resource/Download/739a0114-4c0d-4a18-b85e-b53982324cbc" height="30">
 </a>
 
