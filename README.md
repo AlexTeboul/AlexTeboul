@@ -37,6 +37,13 @@
 <a href="https://github.com/AlexTeboul/my-streamlit-apps">
   <img alt="Streamlit" src="https://ml.globenewswire.com/Resource/Download/739a0114-4c0d-4a18-b85e-b53982324cbc" height="30">
 </a>
+<a href="https://docs.google.com/presentation/d/17tiv-af3wmtIofmcIDhM2CshrFWrpiBC7LGFBHNCorw/edit?usp=sharing">
+  <img alt="Gradio" src="https://gradio.app/assets/img/logo.svg" height="30">
+</a>
+<a href="https://huggingface.co/ateboul">
+  <img alt="Hugging Face" src="https://avatars.githubusercontent.com/u/25720743?s=180&v=4" height="30">
+</a>
+
 
 **Links**
 
