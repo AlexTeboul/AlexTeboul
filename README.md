@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 **About me**
-* 4+ years experience working as Data Scientist
+* 4+ years experience working as a Data Scientist
 * Used SQL, R, and Python to generate automated reporting for thousands of clients for telemedicine company.
 * Improved student academic and behavioral outcomes using data. 
 * Internship experience in computer vision/automotive automation and freelance database work.
